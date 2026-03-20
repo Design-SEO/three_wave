@@ -1,0 +1,46 @@
+Array
+(
+    [first_name] => wdawd
+    [last_name] => dawd
+    [password] => Aa1aIp79X351
+    [email] => ed@gmail.com
+    [phone] => 2015555555
+    [area_code] => 
+    [hitid] => {subid}
+    [country] => 
+    [funnel] => EquLum App AI
+    [affid] => 2
+    [aff_sub2] => TEST
+    [aff_sub3] => EN
+    [aff_sub4] => SEO
+    [aff_sub9] => zevrio-capiture--app
+    [aff_sub10] => SEO-64
+    [source] => Facebook
+    [_ip] => 127.0.0.1
+    [language] => EN
+)
+
+
+Array
+(
+    [csrf_token] => 20eb15c7858d901ad7b3981f9648426631de4ee19e5e40c1c0871beb64ccecd0
+    [subid] => {subid}
+    [pixel] => {sub_id_2}
+    [lang] => en
+    [source] => {traffic_source_name}
+    [offer] => EquLum App AI
+    [sub4] => {sub_id_8}
+    [country] => 
+    [design] => 
+    [offer_id] => 
+    [fp_sid] => 
+    [fio] => wdawd
+    [lastName] => dawd
+    [solrka] => ed@gmail.com
+    [areaCode] => 
+    [search2] => 2015555555
+    [full] => +12015555555
+    [fp_nonce] => 1773129470
+    [fp_hash] => eb837e97450ba335df90cfcdb63a9993cf0e516c933328facad06068ea89529b
+    [fp_checks] => 1
+)
