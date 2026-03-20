@@ -10,6 +10,7 @@ $pageSlug = detectPageSlug(__FILE__);
  <?php generateMetaTags($pageSlug); ?>
         <?php generateHreflangTags(); ?>
         <?php generateJsonLd($pageSlug); ?>
+<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/styles.css">
